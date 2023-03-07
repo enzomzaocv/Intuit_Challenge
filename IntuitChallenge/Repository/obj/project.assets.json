@@ -3097,11 +3097,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\enzomzaocv\\Desktop\\IntuitChallenge\\Repository\\Repository.csproj",
+      "projectUniqueName": "C:\\Users\\enzomzaocv\\Documents\\Devs\\Intuit_Challenge\\IntuitChallenge\\Repository\\Repository.csproj",
       "projectName": "Repository",
-      "projectPath": "C:\\Users\\enzomzaocv\\Desktop\\IntuitChallenge\\Repository\\Repository.csproj",
+      "projectPath": "C:\\Users\\enzomzaocv\\Documents\\Devs\\Intuit_Challenge\\IntuitChallenge\\Repository\\Repository.csproj",
       "packagesPath": "C:\\Users\\enzomzaocv\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\enzomzaocv\\Desktop\\IntuitChallenge\\Repository\\obj\\",
+      "outputPath": "C:\\Users\\enzomzaocv\\Documents\\Devs\\Intuit_Challenge\\IntuitChallenge\\Repository\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\enzomzaocv\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3118,8 +3118,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\enzomzaocv\\Desktop\\IntuitChallenge\\Model\\Model.csproj": {
-              "projectPath": "C:\\Users\\enzomzaocv\\Desktop\\IntuitChallenge\\Model\\Model.csproj"
+            "C:\\Users\\enzomzaocv\\Documents\\Devs\\Intuit_Challenge\\IntuitChallenge\\Model\\Model.csproj": {
+              "projectPath": "C:\\Users\\enzomzaocv\\Documents\\Devs\\Intuit_Challenge\\IntuitChallenge\\Model\\Model.csproj"
             }
           }
         }

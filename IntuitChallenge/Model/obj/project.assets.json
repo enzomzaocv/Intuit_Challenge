@@ -3079,11 +3079,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\enzomzaocv\\Desktop\\IntuitChallenge\\Model\\Model.csproj",
+      "projectUniqueName": "C:\\Users\\enzomzaocv\\Documents\\Devs\\Intuit_Challenge\\IntuitChallenge\\Model\\Model.csproj",
       "projectName": "Model",
-      "projectPath": "C:\\Users\\enzomzaocv\\Desktop\\IntuitChallenge\\Model\\Model.csproj",
+      "projectPath": "C:\\Users\\enzomzaocv\\Documents\\Devs\\Intuit_Challenge\\IntuitChallenge\\Model\\Model.csproj",
       "packagesPath": "C:\\Users\\enzomzaocv\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\enzomzaocv\\Desktop\\IntuitChallenge\\Model\\obj\\",
+      "outputPath": "C:\\Users\\enzomzaocv\\Documents\\Devs\\Intuit_Challenge\\IntuitChallenge\\Model\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\enzomzaocv\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+T8mMY/VZhCngWPPWNO+/snPpK6PMlsBDyDGcb39DOQQZmSsZT0XGUyYIeZS+Fp/2+9p8W4DwgDfRcFQ77hvcw==",
+  "dgSpecHash": "bTtCTcPb73QG41nE2eDYNeijhM+yEeuFOLKuZ3Ii/sdprtSrIj471N6beFetBReFjva+SB6AIy+bIZkKG0ZG6Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\enzomzaocv\\Desktop\\IntuitChallenge\\Repository\\Repository.csproj",
+  "projectFilePath": "C:\\Users\\enzomzaocv\\Documents\\Devs\\Intuit_Challenge\\IntuitChallenge\\Repository\\Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\enzomzaocv\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\enzomzaocv\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

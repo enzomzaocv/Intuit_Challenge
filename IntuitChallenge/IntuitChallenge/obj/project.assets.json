@@ -3332,11 +3332,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\enzomzaocv\\Desktop\\IntuitChallenge\\IntuitChallenge\\IntuitChallenge.csproj",
+      "projectUniqueName": "C:\\Users\\enzomzaocv\\Documents\\Devs\\Intuit_Challenge\\IntuitChallenge\\IntuitChallenge\\IntuitChallenge.csproj",
       "projectName": "IntuitChallenge",
-      "projectPath": "C:\\Users\\enzomzaocv\\Desktop\\IntuitChallenge\\IntuitChallenge\\IntuitChallenge.csproj",
+      "projectPath": "C:\\Users\\enzomzaocv\\Documents\\Devs\\Intuit_Challenge\\IntuitChallenge\\IntuitChallenge\\IntuitChallenge.csproj",
       "packagesPath": "C:\\Users\\enzomzaocv\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\enzomzaocv\\Desktop\\IntuitChallenge\\IntuitChallenge\\obj\\",
+      "outputPath": "C:\\Users\\enzomzaocv\\Documents\\Devs\\Intuit_Challenge\\IntuitChallenge\\IntuitChallenge\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\enzomzaocv\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3353,11 +3353,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\enzomzaocv\\Desktop\\IntuitChallenge\\Business\\Business.csproj": {
-              "projectPath": "C:\\Users\\enzomzaocv\\Desktop\\IntuitChallenge\\Business\\Business.csproj"
+            "C:\\Users\\enzomzaocv\\Documents\\Devs\\Intuit_Challenge\\IntuitChallenge\\Business\\Business.csproj": {
+              "projectPath": "C:\\Users\\enzomzaocv\\Documents\\Devs\\Intuit_Challenge\\IntuitChallenge\\Business\\Business.csproj"
             },
-            "C:\\Users\\enzomzaocv\\Desktop\\IntuitChallenge\\Model\\Model.csproj": {
-              "projectPath": "C:\\Users\\enzomzaocv\\Desktop\\IntuitChallenge\\Model\\Model.csproj"
+            "C:\\Users\\enzomzaocv\\Documents\\Devs\\Intuit_Challenge\\IntuitChallenge\\Model\\Model.csproj": {
+              "projectPath": "C:\\Users\\enzomzaocv\\Documents\\Devs\\Intuit_Challenge\\IntuitChallenge\\Model\\Model.csproj"
             }
           }
         }
