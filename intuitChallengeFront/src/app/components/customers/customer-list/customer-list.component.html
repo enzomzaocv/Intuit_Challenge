@@ -1,0 +1,21 @@
+<div class="card">
+    <div class="card-body">
+      <h6 class="text-center">
+        Clientes
+      </h6>
+      <table class="table table-sm table-hover">
+        <tbody>
+          <tr *ngFor="let customer of costumerList">
+            <td>{{customer.name}} {{customer.surname}}</td>
+            <td>{{customer.cuit}}</td>
+            <td>
+              <a class="btn btn-secondary text-white"
+                 routerLink="/cliente/{{customer.idCustomer}}">
+                 Ver
+              </a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>

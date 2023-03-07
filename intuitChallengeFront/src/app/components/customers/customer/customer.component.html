@@ -1,0 +1,105 @@
+<div class="container">
+  <div class="row">
+    <div class="col-md-7 text-center">
+
+
+<div class="card mt-5">
+    <div class="card-body">
+        <form #productForm="ngForm" (ngSubmit)="onSubmit(productForm)">
+            <input type="hidden" name="idCustomer" [(ngModel)]="customer.idCustomer">
+  
+            <div class="form-group">
+              <input 
+                type="text"
+                class="form-control"
+                name="name"
+                #name="ngModel"
+                [(ngModel)]="customer.name"
+                placeholder="Nombres"
+                >
+            </div>
+            <div class="form-group">
+                <input 
+                  type="text"
+                  class="form-control"
+                  name="surname"
+                  #category="ngModel"
+                  [(ngModel)]="customer.surname"
+                  placeholder="Apellidos"
+                  >
+            </div>
+            <div class="form-group">
+              <input 
+                type="text"
+                class="form-control"
+                name="cuit"
+                #location="ngModel"
+                [(ngModel)]="customer.cuit"
+                placeholder="CUIT"
+                >
+            </div>
+            <div class="form-group">
+                <input 
+                  type="text"
+                  class="form-control"
+                  name="address"
+                  #price="ngModel"
+                  [(ngModel)]="customer.address"
+                  placeholder="Direccion"
+                  >
+            </div>
+            <div class="form-group">
+                  <input 
+                    type="text"
+                    class="form-control"
+                    name="phone"
+                    #price="ngModel"
+                    [(ngModel)]="customer.phone"
+                    placeholder="Telefono"
+                    >
+            </div>
+            <div class="form-group">
+                  <input 
+                    type="email"
+                    class="form-control"
+                    name="email"
+                    #price="ngModel"
+                    [(ngModel)]="customer.email"
+                    placeholder="Email"
+                    >
+            </div>
+            <div class="form-group">
+                <input 
+                  type="text"
+                  class="form-control"
+                  name="birthdate"
+                  #price="ngModel"
+                  [(ngModel)]="customer.birthdate"
+                  placeholder="Fecha de Nacimiento"
+                  >
+          </div>
+  
+            <div class="form-group">
+                <div *ngIf="isCreate; else elseBlock">
+                    <button class="btn btn-primary" type="submit">
+                        <i class="fas fa-plus-circle"></i> Crear Cliente
+                    </button>
+                </div>
+                <ng-template #elseBlock>
+                    <button class="btn btn-primary" type="submit">
+                        <i class="fas fa-plus-circle"></i> Editar
+                    </button>
+                </ng-template>
+              <a class="btn btn-secondary" type="reset" routerLink="/clientes" routerLinkActive="active" >
+                  <i class="fas fa-sync-alt"></i> Volver
+              </a>
+            </div>
+          </form>
+    </div>
+  </div>
+
+
+
+</div>
+</div>
+</div>

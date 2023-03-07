@@ -1,0 +1,18 @@
+﻿IF(NOT EXISTS(SELECT * FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_NAME LIKE 'Customer'))
+BEGIN
+    CREATE TABLE [dbo].[Customer](
+        [IdCustomer] INT IDENTITY(1,1) NOT NULL,
+        [Name] NVARCHAR(70) NOT NULL,
+        [Surname] NVARCHAR(70) NOT NULL,
+        [Birthdate] DATETIME NULL,
+        [IdentificationNumber] NVARCHAR(13) NOT NULL,
+        [Adress] NVARCHAR(100) NULL,
+        [Phone] NVARCHAR(13) NOT NULL,
+        [Email] NVARCHAR(70) NOT NULL
+        CONSTRAINT [PK_Card] PRIMARY KEY CLUSTERED 
+        (
+	        [IdCustomer] ASC
+        )WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+    ) ON [PRIMARY]
+END
+GO

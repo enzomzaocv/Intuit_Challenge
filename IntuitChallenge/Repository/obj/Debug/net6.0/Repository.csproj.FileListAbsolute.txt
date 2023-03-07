@@ -1,0 +1,15 @@
+C:\Users\enzomzaocv\Desktop\IntuitChallenge\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\Users\enzomzaocv\Desktop\IntuitChallenge\Repository\bin\Debug\net6.0\Repository.dll
+C:\Users\enzomzaocv\Desktop\IntuitChallenge\Repository\bin\Debug\net6.0\Repository.pdb
+C:\Users\enzomzaocv\Desktop\IntuitChallenge\Repository\bin\Debug\net6.0\Model.dll
+C:\Users\enzomzaocv\Desktop\IntuitChallenge\Repository\bin\Debug\net6.0\Model.pdb
+C:\Users\enzomzaocv\Desktop\IntuitChallenge\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\Users\enzomzaocv\Desktop\IntuitChallenge\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enzomzaocv\Desktop\IntuitChallenge\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\Users\enzomzaocv\Desktop\IntuitChallenge\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\Users\enzomzaocv\Desktop\IntuitChallenge\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\enzomzaocv\Desktop\IntuitChallenge\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+C:\Users\enzomzaocv\Desktop\IntuitChallenge\Repository\obj\Debug\net6.0\Repository.dll
+C:\Users\enzomzaocv\Desktop\IntuitChallenge\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\Users\enzomzaocv\Desktop\IntuitChallenge\Repository\obj\Debug\net6.0\Repository.pdb
+C:\Users\enzomzaocv\Desktop\IntuitChallenge\Repository\obj\Debug\net6.0\ref\Repository.dll
